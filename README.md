@@ -37,7 +37,11 @@ I believe that consistency beats talent when talent doesn't work hard.
 * MongoDB
 
 ---
+### :zap: Recent Activity
+<!--START_SECTION:activity-->
 
+
+<!--END_SECTION:ACTIVITY-->
 ## 🛠 Tech Stack
 
 ![Tech Stack](https://skillicons.dev/icons?i=html,css,js,git,github,vscode)
