@@ -39,6 +39,12 @@ I believe that consistency beats talent when talent doesn't work hard.
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
+1. ❗ Opened issue [#1](https://github.com/ProgramacionMNK/ProgramacionMNK/issues/1) in [ProgramacionMNK/ProgramacionMNK](https://github.com/ProgramacionMNK/ProgramacionMNK)
+2. 🔒 Closed issue [#3](https://github.com/ProgramacionMNK/PRUEBA-CURSO-PLTZ/issues/3) in [ProgramacionMNK/PRUEBA-CURSO-PLTZ](https://github.com/ProgramacionMNK/PRUEBA-CURSO-PLTZ)
+3. 🗣 Commented on [#3](https://github.com/ProgramacionMNK/PRUEBA-CURSO-PLTZ/issues/3#issuecomment-5072771734) in [ProgramacionMNK/PRUEBA-CURSO-PLTZ](https://github.com/ProgramacionMNK/PRUEBA-CURSO-PLTZ)
+4. 🎉 Merged PR [#6](https://github.com/ProgramacionMNK/PRUEBA-CURSO-PLTZ/pull/6) in [ProgramacionMNK/PRUEBA-CURSO-PLTZ](https://github.com/ProgramacionMNK/PRUEBA-CURSO-PLTZ)
+5. 🔒 Closed issue [#5](https://github.com/ProgramacionMNK/PRUEBA-CURSO-PLTZ/issues/5) in [ProgramacionMNK/PRUEBA-CURSO-PLTZ](https://github.com/ProgramacionMNK/PRUEBA-CURSO-PLTZ)
+<!--END_SECTION:activity-->
 
 
 <!--END_SECTION:ACTIVITY-->
