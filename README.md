@@ -39,11 +39,11 @@ I believe that consistency beats talent when talent doesn't work hard.
 ---
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/ProgramacionMNK/ProgramacionMNK/issues/1) in [ProgramacionMNK/ProgramacionMNK](https://github.com/ProgramacionMNK/ProgramacionMNK)
-2. 🔒 Closed issue [#3](https://github.com/ProgramacionMNK/PRUEBA-CURSO-PLTZ/issues/3) in [ProgramacionMNK/PRUEBA-CURSO-PLTZ](https://github.com/ProgramacionMNK/PRUEBA-CURSO-PLTZ)
-3. 🗣 Commented on [#3](https://github.com/ProgramacionMNK/PRUEBA-CURSO-PLTZ/issues/3#issuecomment-5072771734) in [ProgramacionMNK/PRUEBA-CURSO-PLTZ](https://github.com/ProgramacionMNK/PRUEBA-CURSO-PLTZ)
-4. 🎉 Merged PR [#6](https://github.com/ProgramacionMNK/PRUEBA-CURSO-PLTZ/pull/6) in [ProgramacionMNK/PRUEBA-CURSO-PLTZ](https://github.com/ProgramacionMNK/PRUEBA-CURSO-PLTZ)
-5. 🔒 Closed issue [#5](https://github.com/ProgramacionMNK/PRUEBA-CURSO-PLTZ/issues/5) in [ProgramacionMNK/PRUEBA-CURSO-PLTZ](https://github.com/ProgramacionMNK/PRUEBA-CURSO-PLTZ)
+1. 🎉 Merged PR [#2](https://github.com/ProgramacionMNK/REPOSITORYCLI/pull/2) in [ProgramacionMNK/REPOSITORYCLI](https://github.com/ProgramacionMNK/REPOSITORYCLI)
+2. 💪 Opened PR [#2](https://github.com/ProgramacionMNK/REPOSITORYCLI/pull/2) in [ProgramacionMNK/REPOSITORYCLI](https://github.com/ProgramacionMNK/REPOSITORYCLI)
+3. 🎉 Merged PR [#1](https://github.com/ProgramacionMNK/REPOSITORYCLI/pull/1) in [ProgramacionMNK/REPOSITORYCLI](https://github.com/ProgramacionMNK/REPOSITORYCLI)
+4. 💪 Opened PR [#1](https://github.com/ProgramacionMNK/REPOSITORYCLI/pull/1) in [ProgramacionMNK/REPOSITORYCLI](https://github.com/ProgramacionMNK/REPOSITORYCLI)
+5. ❗ Opened issue [#1](https://github.com/ProgramacionMNK/ProgramacionMNK/issues/1) in [ProgramacionMNK/ProgramacionMNK](https://github.com/ProgramacionMNK/ProgramacionMNK)
 <!--END_SECTION:activity-->
 
 
